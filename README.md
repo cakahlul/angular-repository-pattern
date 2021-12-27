@@ -1,3 +1,7 @@
+# About
+
+Simple web app using Angular framework with repository pattern. This repo created as practice and research about apollo library in angular framework
+
 # AngularRepositoryPattern
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
